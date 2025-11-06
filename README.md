@@ -52,3 +52,5 @@ Send a `POST` request using Postman or Thunder Client to the Production URL:
   "email": "archit@example.com"
 }
 ```
+
+![Workflow Screenshot](dashboard_screenshot.png)
